@@ -26,7 +26,7 @@ public class Technologies {
 	}
 	
 	public void tech() {
-		System.out.println("Completed");
+		System.out.println("Completed ok");
 	}
 
 }
